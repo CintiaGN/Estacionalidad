@@ -1,2 +1,2 @@
 # Estacionalidad
-DataViz de la estacionalidad para las remesas recibidas en México
+DataViz:  estacionalidad de las remesas recibidas en México
